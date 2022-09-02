@@ -1,6 +1,7 @@
 # EGH400-2-Rev-Aero-Simulator
 Thesis Project
 
+### Installation and Initial Setups
 This document will step through the process of installing ROS, Gazebo and Ardupilot. 
 The following set of instructions also provides sample code that can be executed to see if the installation process was successful. 
 
@@ -9,9 +10,11 @@ The following set of instructions also provides sample code that can be executed
 It is reccomended to follow the youtube video (link below) as it provides visuals on what the installation should look like.                       
 https://www.youtube.com/watch?v=1FpJvUVPxL0&ab_channel=IntelligentQuads
 
-The Youtube video runs through the following set of tutorials (in order). 
+The Youtube video runs through the following set of tutorials (in order).                                                                                              
 https://github.com/Intelligent-Quads/iq_tutorials/blob/master/docs/Installing_Ardupilot_20_04.md
 
 https://github.com/Intelligent-Quads/iq_tutorials/blob/master/docs/installing_gazebo_arduplugin.md
 
 https://github.com/Intelligent-Quads/iq_tutorials/blob/master/docs/installing_ros_20_04.md
+
+### Edited Files
