@@ -46,7 +46,7 @@ Run Ardupilot Instances
 ```
 Run MAVROS Instances
 ```
-roslaunch iq_sim multi_apm.launch 
+roslaunch iq_sim multi_apm.launch
 ```
 Run Guidance Program (Wait for all UAVs to connect to GPS before executing this line)
 ```
