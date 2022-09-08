@@ -19,21 +19,21 @@ https://github.com/Intelligent-Quads/iq_tutorials/blob/master/docs/installing_ro
 ### Edited Files
 This section will outline the files edited so far. These files are subject to change as the project progresses. The following files have been changes to fit the 20 UAV criteria. Intelligent Quads provides more information in their videos to why these files need to be edited and how the simulator works generally. It is reccomended to watch their videos before experimenting as it provides a lot of background information. Download the files in this repository and place them in the locations listed. 
 
-default_params(Whole folder) -> ".../ardupilot/Tools/autotest"
+default_params(Whole folder) -> `.../ardupilot/Tools/autotest`
 
-vehicleinfo.py -> ".../ardupilot/Tools/autotest/pysim" 
+vehicleinfo.py -> `.../ardupilot/Tools/autotest/pysim` 
 
-multi_apm.launch -> ".../catkin_ws/src/iq_sim/launch"
+multi_apm.launch -> `.../catkin_ws/src/iq_sim/launch`
 
-multi_drone.world -> ".../catkin_ws/src/iq_sim/worlds"
+multi_drone.world -> `.../catkin_ws/src/iq_sim/worlds`
 
-drone1->20 (Whole folder) -> ".../catkin_ws/src/iq_sim/models"
+drone1-20 (all folders) -> `.../catkin_ws/src/iq_sim/models`
 
-multi_square.launch -> ".../catkin_ws/src/iq_gnc/launch"
+multi_square.launch -> `.../catkin_ws/src/iq_gnc/launch`
 
-square.cpp -> ".../catkin_ws/src/iq_gnc/src"
+square.cpp -> `.../catkin_ws/src/iq_gnc/src`
 
-multi_sitl.sh -> "/home (You can run this anywhere as long as you convert it into an executable)"
+multi_sitl.sh -> `/home (You can run this anywhere as long as you convert it into an executable)`
 
 ### Running the Simulation
 Run Gazebo
