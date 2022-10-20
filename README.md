@@ -4,7 +4,7 @@
 This document will step through the process of installing ROS, Gazebo and Ardupilot. 
 The following set of instructions also provides sample code that can be executed to see if the installation process was successful. 
 
-#### Note: All links provided alone are from a channel called "Intelligent Quads". No material except for any files edited (will be listed below) is not my work and all credit goes to Intelligent Quads. There are other sets of Youtube videos by the same channel if you have an older version of Linux, this set of instructions is only suitable for Ubuntu 20.04.3.
+#### Note: All links provided alone are from a channel called "Intelligent Quads". No material except for any files edited (will be listed below) is my work and all credit goes to Intelligent Quads. There are other sets of Youtube videos by the same channel if you have an older version of Linux, this set of instructions is only suitable for Ubuntu 20.04.3.
 
 It is reccomended to follow the youtube video (link below) as it provides visuals on what the installation should look like.                       
 https://www.youtube.com/watch?v=1FpJvUVPxL0&ab_channel=IntelligentQuads
