@@ -167,6 +167,36 @@
         <uri>model://drone15</uri>
       </include>
     </model>
+    <model name="drone16">
+      <pose> 35 5 0 0 0 0</pose>
+      <include>
+        <uri>model://drone16</uri>
+      </include>
+    </model>
+    <model name="drone17">
+      <pose> 40 0 0 0 0 0</pose>
+      <include>
+        <uri>model://drone17</uri>
+      </include>
+    </model>
+    <model name="drone18">
+      <pose> 40 5 0 0 0 0</pose>
+      <include>
+        <uri>model://drone18</uri>
+      </include>
+    </model>
+    <model name="drone19">
+      <pose> 50 0 0 0 0 0</pose>
+      <include>
+        <uri>model://drone19</uri>
+      </include>
+    </model>
+    <model name="drone20">
+      <pose> 50 5 0 0 0 0</pose>
+      <include>
+        <uri>model://drone20</uri>
+      </include>
+    </model>
   </world>
 </sdf>
 

@@ -105,4 +105,39 @@
 		</node>
 	</group>
 
+	<group>	
+		<node pkg="iq_gnc" type="square" name="square16" output="screen" ns="/drone16">
+			<param name="namespace" value="/drone16"/>
+			<param name="use_sim_time"  value="true" />
+		</node>
+	</group>
+
+	<group>	
+		<node pkg="iq_gnc" type="square" name="square17" output="screen" ns="/drone17">
+			<param name="namespace" value="/drone17"/>
+			<param name="use_sim_time"  value="true" />
+		</node>
+	</group>
+
+	<group>	
+		<node pkg="iq_gnc" type="square" name="square18" output="screen" ns="/drone18">
+			<param name="namespace" value="/drone18"/>
+			<param name="use_sim_time"  value="true" />
+		</node>
+	</group>
+
+	<group>	
+		<node pkg="iq_gnc" type="square" name="square19" output="screen" ns="/drone19">
+			<param name="namespace" value="/drone19"/>
+			<param name="use_sim_time"  value="true" />
+		</node>
+	</group>
+
+	<group>	
+		<node pkg="iq_gnc" type="square" name="square20" output="screen" ns="/drone20">
+			<param name="namespace" value="/drone20"/>
+			<param name="use_sim_time"  value="true" />
+		</node>
+	</group>
+
 </launch>

@@ -16,4 +16,8 @@ gnome-terminal \
  --tab -e "sim_vehicle.py -v ArduCopter -f gazebo-drone13 -I12" \
  --tab -e "sim_vehicle.py -v ArduCopter -f gazebo-drone14 -I13" \
  --tab -e "sim_vehicle.py -v ArduCopter -f gazebo-drone15 -I14" \
-
+ --tab -e "sim_vehicle.py -v ArduCopter -f gazebo-drone16 -I15" \
+ --tab -e "sim_vehicle.py -v ArduCopter -f gazebo-drone17 -I16" \
+ --tab -e "sim_vehicle.py -v ArduCopter -f gazebo-drone18 -I17" \
+ --tab -e "sim_vehicle.py -v ArduCopter -f gazebo-drone19 -I18" \
+ --tab -e "sim_vehicle.py -v ArduCopter -f gazebo-drone20 -I19" \
